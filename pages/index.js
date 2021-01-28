@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Test app is live!" />
+        <Header title="Test app is changed!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
